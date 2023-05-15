@@ -10,6 +10,8 @@
 
 
 # Relatório
+
+### Resumo
   O estudo de sistemas que possuem características elásticas é muito importante em diversas áreas da física e da engenharia, como a mecânica, a acústica e a eletrônica. Entre os sistemas elásticos mais comuns, temos as molas, que são elementos muito utilizados em diversas aplicações, como suspensão de veículos, instrumentos musicais e sistemas de amortecimento.
 
 Nesse contexto, este relatório tem como objetivo apresentar os resultados experimentais obtidos a partir da análise do comportamento de duas molas de diferentes tamanhos e seus respectivos coeficientes de distorção.
