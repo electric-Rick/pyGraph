@@ -29,6 +29,8 @@ As massas utilizadas foram de 50g, 100,1g, 150,1g, 200,1g e 250,5g. Foram realiz
 
 Os dados obtidos foram utilizados para traçar o gráfico da relação entre a deformação da mola e a massa aplicada. Os resultados podem ser visualizados na figura abaixo:
 
+![Figure_1](https://github.com/electric-Rick/pyGraph/assets/67898747/c1cf71b8-50e0-4c53-b923-63d8d4600e23)
+
 Conforme observado no gráfico, a relação entre a deformação da mola e a massa aplicada é linear, com um coeficiente angular que representa o coeficiente de distorção da mola. Para a mola pequena, o coeficiente de distorção foi de 0,323 N/m, enquanto para a mola grande foi de 1,634 N/m.
 
 ### Discussão
@@ -38,6 +40,8 @@ Os resultados obtidos estão de acordo com as expectativas teóricas, já que o 
 ### Conclusão
 
 O experimento realizado permitiu a análise do comportamento de duas molas de diferentes tamanhos e a determinação de seus coeficientes de distorção. Os resultados obtidos estão em concordância com as expectativas teóricas e demonstram a aplicabilidade da lei de Hooke para a descrição do comportamento elástico das molas.
+
+
 
 ## Demais informações
   Encontrou algum bug? Abra uma issue e a gente dialoga.
