@@ -14,7 +14,7 @@
 ### Resumo
 O relatório apresenta um experimento com duas molas de tamanhos diferentes. Foram aplicadas massas conhecidas nas molas e suas deformações foram medidas. Os resultados mostraram uma relação linear entre a deformação e a massa aplicada, de acordo com a lei de Hooke. Os coeficientes de distorção das molas foram determinados como 0,323 N/m e 1,634 N/m. O experimento confirmou a aplicabilidade da lei de Hooke no estudo das molas.
 
-## Relatório
+## Conteúdo
   O estudo de sistemas que possuem características elásticas é muito importante em diversas áreas da física e da engenharia, como a mecânica, a acústica e a eletrônica. Entre os sistemas elásticos mais comuns, temos as molas, que são elementos muito utilizados em diversas aplicações, como suspensão de veículos, instrumentos musicais e sistemas de amortecimento.
 
 Nesse contexto, este relatório tem como objetivo apresentar os resultados experimentais obtidos a partir da análise do comportamento de duas molas de diferentes tamanhos e seus respectivos coeficientes de distorção.
