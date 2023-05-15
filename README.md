@@ -1,7 +1,11 @@
 # Como rodar este código?
-1 - Certifique-se que você possui a versão 3 do Python.
+
+1 - Certifique-se que você possui a versão 3 do Python. 
+
 2 - Certifique-se que as bibliotecas em requirements.txt estão devidamente instaladas.
+
 3 - Abra o terminal.
+
 4 - Digite o seguinte comando na pasta raiz do projeto: `python3 index.py` ou `py3 index.py`
 
 
